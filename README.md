@@ -1,6 +1,6 @@
 ### Hello there!
 
-
+All personal projects will be stored here, like bots, machine learning and others to create a backup for the code.
 
 <!-- 
 Project title
