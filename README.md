@@ -1,6 +1,6 @@
 ### Hello there!
 
-All personal projects will be stored here, like bots, machine learning and others to create a backup for the code.
+All personal projects will be stored here, like bots, developed/developing games and others to create a backup for the code, and a portfolio for my programming skills.
 
 <!-- 
 Project title
