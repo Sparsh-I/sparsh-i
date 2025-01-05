@@ -1,6 +1,6 @@
 ### Hello there!
 
-All personal projects will be stored here, like bots, developed/developing games and others to create a backup for the code, and a portfolio for my programming skills.
+All personal projects will be stored here, like bots, developed/developing games and others to create a backup for the code, and a portfolio for my programming skills. Games that have been developed will be published to https://sparsh-i.itch.io.
 
 <!-- 
 Project title
